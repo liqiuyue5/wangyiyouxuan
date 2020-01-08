@@ -107,7 +107,7 @@
 		</div>
 		</div>
 		<!-- 回到顶部 -->
-		<div class="backTop" v-show="isShow">
+		<div class="backTop" v-show="isShow" @click="backTop">
 			<span class="iconfont icon-jiantouxiangshang"></span>
 		</div>
 		<!-- 底部固定部分 -->
@@ -146,6 +146,14 @@
 			this.backData=backData
 		},
 		methods:{
+			// 回到顶部
+			backTop(){
+				uni.pageScrollTo({
+				    scrollTop: 0,
+				    duration: 300
+				});
+			},
+			
 			// 节流
 			touchStart(){
 				if(this.canlog){

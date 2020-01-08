@@ -7489,9 +7489,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!**********************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/pages.json ***!
-  \**********************************************************/
+/*!************************************************************************!*\
+  !*** C:/Users/lixikang/Desktop/两个项目/网易严选目前完整/wangyiyouxuan/pages.json ***!
+  \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8393,9 +8393,9 @@ module.exports = {"_from":"@dcloudio/uni-stat@next","_id":"@dcloudio/uni-stat@2.
 
 /***/ }),
 /* 7 */
-/*!***************************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/pages.json?{"type":"style"} ***!
-  \***************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** C:/Users/lixikang/Desktop/两个项目/网易严选目前完整/wangyiyouxuan/pages.json?{"type":"style"} ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8404,9 +8404,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 /***/ }),
 /* 8 */
-/*!**************************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/pages.json?{"type":"stat"} ***!
-  \**************************************************************************/
+/*!****************************************************************************************!*\
+  !*** C:/Users/lixikang/Desktop/两个项目/网易严选目前完整/wangyiyouxuan/pages.json?{"type":"stat"} ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9321,9 +9321,9 @@ if (hadRuntime) {
 
 /***/ }),
 /* 24 */
-/*!****************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/utils/request.js ***!
-  \****************************************************************/
+/*!******************************************************************************!*\
+  !*** C:/Users/lixikang/Desktop/两个项目/网易严选目前完整/wangyiyouxuan/utils/request.js ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9350,9 +9350,9 @@ function _default(url) {var data = arguments.length > 1 && arguments[1] !== unde
 
 /***/ }),
 /* 25 */
-/*!***************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/utils/config.js ***!
-  \***************************************************************/
+/*!*****************************************************************************!*\
+  !*** C:/Users/lixikang/Desktop/两个项目/网易严选目前完整/wangyiyouxuan/utils/config.js ***!
+  \*****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
