@@ -7594,9 +7594,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!*****************************************************************!*\
-  !*** C:/Users/15603950816/Desktop/hhh/wangyiyouxuan/pages.json ***!
-  \*****************************************************************/
+/*!***************************************!*\
+  !*** D:/尚硅谷学习资料/网易严选/网易严选/pages.json ***!
+  \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8501,20 +8501,20 @@ module.exports = {"_from":"@dcloudio/uni-stat@alpha","_id":"@dcloudio/uni-stat@2
 
 /***/ }),
 /* 7 */
-/*!**********************************************************************************!*\
-  !*** C:/Users/15603950816/Desktop/hhh/wangyiyouxuan/pages.json?{"type":"style"} ***!
-  \**********************************************************************************/
+/*!********************************************************!*\
+  !*** D:/尚硅谷学习资料/网易严选/网易严选/pages.json?{"type":"style"} ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/index/index": { "navigationBarTitleText": "uni-app", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/category/category": { "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/carts/carts": { "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/personal/personal": { "usingComponents": {}, "usingAutoImportComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多" }, "pages/index/index": { "navigationBarTitleText": "uni-app" }, "pages/category/category": {}, "pages/carts/carts": {}, "pages/personal/personal": {} }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
 
 /***/ }),
 /* 8 */
-/*!*********************************************************************************!*\
-  !*** C:/Users/15603950816/Desktop/hhh/wangyiyouxuan/pages.json?{"type":"stat"} ***!
-  \*********************************************************************************/
+/*!*******************************************************!*\
+  !*** D:/尚硅谷学习资料/网易严选/网易严选/pages.json?{"type":"stat"} ***!
+  \*******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9443,9 +9443,9 @@ if (hadRuntime) {
 
 /***/ }),
 /* 24 */
-/*!***********************************************************************!*\
-  !*** C:/Users/15603950816/Desktop/hhh/wangyiyouxuan/utils/request.js ***!
-  \***********************************************************************/
+/*!*********************************************!*\
+  !*** D:/尚硅谷学习资料/网易严选/网易严选/utils/request.js ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9472,9 +9472,9 @@ function _default(url) {var data = arguments.length > 1 && arguments[1] !== unde
 
 /***/ }),
 /* 25 */
-/*!**********************************************************************!*\
-  !*** C:/Users/15603950816/Desktop/hhh/wangyiyouxuan/utils/config.js ***!
-  \**********************************************************************/
+/*!********************************************!*\
+  !*** D:/尚硅谷学习资料/网易严选/网易严选/utils/config.js ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
