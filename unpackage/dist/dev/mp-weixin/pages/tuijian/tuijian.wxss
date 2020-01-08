@@ -11,6 +11,7 @@
 	height: 100rpx;
 	display: -webkit-box;
 	display: -webkit-flex;
+	display: -ms-flexbox;
 	display: flex;
 }
 .inv-h{
@@ -18,6 +19,7 @@
 	/* width: 50upx; */
 	-webkit-box-flex: 1;
 	-webkit-flex: 1;
+	    -ms-flex: 1;
 	        flex: 1;
 	font-size: 30rpx;
 	text-align: center;
@@ -32,62 +34,41 @@
 	border-bottom: #FF1D25 solid 2rpx;
 }
 
-.tab-container.data-v-868d3360 {
+.tab-container.data-v-2f973046 {
   padding: 20rpx;
 }
-.tab-container .commodity-list .commodity-item.data-v-868d3360:nth-child(odd) {
+.tab-container .commodity-list .commodity-item.data-v-2f973046:nth-child(odd) {
   margin-right: 16rpx;
 }
-.tab-container .commodity-list .commodity-item.data-v-868d3360 {
-.tab-container.data-v-4332b0a3 {
-  padding: 20rpx;
-}
-.tab-container .commodity-list .commodity-item.data-v-4332b0a3:nth-child(odd) {
-  margin-right: 16rpx;
-}
-.tab-container .commodity-list .commodity-item.data-v-4332b0a3 {
+.tab-container .commodity-list .commodity-item.data-v-2f973046 {
   width: 350rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
+      -ms-flex-direction: column;
           flex-direction: column;
   float: left;
   margin-bottom: 30rpx;
 }
-<<<<<<< HEAD
-.tab-container .commodity-list .commodity-item image.data-v-868d3360 {
-=======
-.tab-container .commodity-list .commodity-item image.data-v-4332b0a3 {
->>>>>>> 055f76fa1c8b2572294143675772cf2e69cd232f
+.tab-container .commodity-list .commodity-item image.data-v-2f973046 {
   width: 100%;
   height: 350rpx;
   margin-bottom: 30rpx;
 }
-<<<<<<< HEAD
-.tab-container .commodity-list .commodity-item .title.data-v-868d3360 {
-=======
-.tab-container .commodity-list .commodity-item .title.data-v-4332b0a3 {
->>>>>>> 055f76fa1c8b2572294143675772cf2e69cd232f
+.tab-container .commodity-list .commodity-item .title.data-v-2f973046 {
   font-size: 35rpx;
   height: 37;
   line-height: 1.2;
 }
-<<<<<<< HEAD
-.tab-container .commodity-list .commodity-item .money.data-v-868d3360 {
+.tab-container .commodity-list .commodity-item .money.data-v-2f973046 {
   color: #e44b51;
   font-size: 35rpx;
 }
-.tab-container .commodity-list .commodity-item .sign.data-v-868d3360 {
-=======
-.tab-container .commodity-list .commodity-item .money.data-v-4332b0a3 {
-  color: #e44b51;
-  font-size: 35rpx;
-}
-.tab-container .commodity-list .commodity-item .sign.data-v-4332b0a3 {
->>>>>>> 055f76fa1c8b2572294143675772cf2e69cd232f
+.tab-container .commodity-list .commodity-item .sign.data-v-2f973046 {
   border-radius: 30rpx;
   border: 1rpx solid #e96c70;
   font-size: 20rpx;

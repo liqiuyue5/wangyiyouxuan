@@ -8,8 +8,8 @@
 		"es6": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.9.2",
-	"appid": "wxa186ee83ce574d22",
+	"libVersion": "2.7.0",
+	"appid": "wx87a9743ca45f8dbc",
 	"projectname": "网易严选",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},

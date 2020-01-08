@@ -39,7 +39,14 @@
 				"style":{
 					"navigationBarTitleText": "详情页"
 				}
+			},			
+			{
+				"path":"pages/snap-up/snap-up",
+				"style":{
+					"navigationBarTitleText": "详情页"
+				}
 			}
+			
 				
 				
 				

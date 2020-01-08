@@ -10,6 +10,7 @@
   background: #fff;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   vertical-align: middle;
   line-height: 87rpx;
@@ -64,6 +65,7 @@
   height: 277.984rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
 }
 .wrapper .container .tuijianguanzhu .hop .hopcontent .hopleft {
@@ -101,11 +103,14 @@
 .wrapper .container .tuijianguanzhu .tjgzlist ._ul {
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   padding: 0 20rpx;
 }
@@ -129,6 +134,7 @@
   height: 56rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   vertical-align: bottom;
   position: relative;
@@ -217,6 +223,7 @@
   background-color: #fafafa;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
 }
 .wrapper .container .quanbuxinpin .qbsptitle ._ul ._li {
@@ -233,7 +240,8 @@
   width: 720rpx;
   height: 90rpx;
   padding: 30rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .wrapper .container .quanbuxinpin .benqixinpin .bqxptitle .xiaoshuxian {
   display: block;
@@ -250,14 +258,18 @@
   width: 750rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   padding: 0 20rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .wrapper .container .quanbuxinpin .benqixinpin ._ul ._li {
   width: 345rpx;
@@ -281,6 +293,7 @@
   height: 56rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   vertical-align: bottom;
   position: relative;
@@ -353,6 +366,7 @@
   padding: 25rpx 40rpx 25rpx 30rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
 }
 .wrapper .container .zhongchoushangxin .zhongchou .zhongchouleft {
@@ -390,11 +404,13 @@
   margin-top: 16rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   color: #f48f18;
   display: flex;
   -webkit-box-align: center;
   -webkit-align-items: center;
+      -ms-flex-align: center;
           align-items: center;
 }
 .wrapper .container .zhongchoushangxin .zhongchou .zhongchouright .jindu .jindutiao {
@@ -409,14 +425,17 @@
   margin-top: 16rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
 }
 .wrapper .container .zhongchoushangxin .zhongchou .zhongchouright .zhichirenshu .left {
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
 }
 .wrapper .container .zhongchoushangxin .zhongchou .zhongchouright .zhichirenshu .left ._span {
@@ -437,12 +456,15 @@
 .wrapper .container .zhongchoushangxin .zcsxtitle ._a {
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
   -webkit-align-items: center;
+      -ms-flex-align: center;
           align-items: center;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
+      -ms-flex-pack: center;
           justify-content: center;
   line-height: 110rpx;
 }
@@ -492,7 +514,8 @@
 .wrapper .container .xinpinfangying .scrollfangying .fongyinglist .bottom .btop {
   overflow: hidden;
   white-space: nowrap;
-  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
 }
 .wrapper .container .xinpinfangying .scrollfangying .fongyinglist .bottom .bbottom {
   display: -webkit-box;
@@ -517,14 +540,18 @@
   height: 1227.63rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   padding: 0 20rpx;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .wrapper .container .xinpinyugao ._ul ._li {
   width: 345rpx;
@@ -550,7 +577,8 @@
   color: #9f8a60;
   overflow: hidden;
   white-space: nowrap;
-  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
   font-size: 26rpx;
 }
 .wrapper .container .xinpinyugao ._ul ._li ._a .shoptitle {
