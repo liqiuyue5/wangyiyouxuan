@@ -11,15 +11,15 @@
 					"navigationBarTitleText": "uni-app"
 				}
 			}
-				
-			
         ,{
             "path" : "pages/category/category",
             "style" : {}
         }
         ,{
             "path" : "pages/carts/carts",
-            "style" : {}
+            "style": {
+            	"navigationBarTitleText": "购物车"
+            }
         }
         ,{
             "path" : "pages/personal/personal",
@@ -28,7 +28,13 @@
         ,{
             "path" : "pages/zhidemai/zhidemai",
             "style" : {}
-        }
+        },
+				{
+					"path":"pages/details/details",
+					"style":{
+						"navigationBarTitleText": "详情页"
+					}
+				}
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

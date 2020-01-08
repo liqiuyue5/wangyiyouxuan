@@ -1,0 +1,329 @@
+.carContainer .shoppingCar .shoppingTop image {
+  width: 100%;
+  height: 104rpx;
+}
+.carContainer .shoppingCar .redemption {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0 30rpx;
+}
+.carContainer .shoppingCar .redemption .spanLeft {
+  font-size: 36rpx;
+}
+.carContainer .shoppingCar .redemption .spanRight {
+  font-size: 30rpx;
+}
+.carContainer .shoppingCar .list {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  list-style-type: square;
+  background-color: #fff;
+}
+.carContainer .shoppingCar .list:after {
+  content: "";
+  clear: both;
+}
+.carContainer .shoppingCar .list ._li {
+  float: left;
+  font-size: 24rpx;
+  -webkit-box-flex: 33.3333%;
+  -webkit-flex: 33.3333%;
+      -ms-flex: 33.3333%;
+          flex: 33.3333%;
+  text-align: center;
+  height: 70rpx;
+  line-height: 70rpx;
+}
+.carContainer .shoppingCar .center {
+  margin: 0 auto;
+}
+.carContainer .shoppingCar .center .add .icon-Shoppingcart {
+  width: 248rpx;
+  height: 248rpx;
+}
+.carContainer .shoppingCar .center .add .toLogin {
+  text-align: center;
+}
+.carContainer .shoppingCar .center .add .toLogin ._p {
+  font-size: 28rpx;
+  margin-bottom: 50rpx;
+}
+.carContainer .shoppingCar .center .add .toLogin ._span {
+  display: inline-block;
+  width: 480rpx;
+  height: 92rpx;
+  line-height: 92rpx;
+  background-color: #dd1a21;
+  color: #fff;
+  font-size: 38rpx;
+}
+.carContainer .shoppingCarLogin .shoppingLoginTop image {
+  width: 100%;
+  height: 104rpx;
+}
+.carContainer .shoppingCarLogin .exit {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 30rpx;
+  height: 89rpx;
+  line-height: 89rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.carContainer .shoppingCarLogin .exit .exitShopCar {
+  font-size: 36rpx;
+}
+.carContainer .shoppingCarLogin .exit .exitRight .coupon {
+  font-size: 20rpx;
+  background-color: #fc865f;
+  padding: 8rpx 15rpx;
+  color: #fff;
+}
+.carContainer .shoppingCarLogin .exit .exitRight .exiting {
+  font-size: 30rpx;
+  margin-left: 30rpx;
+}
+.carContainer .shoppingCarLogin .ulList {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  list-style-type: square;
+  background: #fff;
+}
+.carContainer .shoppingCarLogin .ulList:after {
+  content: "";
+  clear: both;
+}
+.carContainer .shoppingCarLogin .ulList ._li {
+  float: left;
+  font-size: 24rpx;
+  -webkit-box-flex: 33.3333%;
+  -webkit-flex: 33.3333%;
+      -ms-flex: 33.3333%;
+          flex: 33.3333%;
+  text-align: center;
+  height: 70rpx;
+  line-height: 70rpx;
+}
+.carContainer .shoppingCarLogin .packageMail {
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  padding: 0 30rpx;
+  background-color: #fff8d8;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.carContainer .shoppingCarLogin .packageMail ._p {
+  font-size: 30rpx;
+  color: #f48f18;
+}
+.carContainer .shoppingCarLogin .noPackageMail {
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  padding: 0 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #fff8d8;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.carContainer .shoppingCarLogin .noPackageMail .coudan {
+  font-size: 30rpx;
+  color: #f48f18;
+}
+.carContainer .shoppingCarLogin .noPackageMail .coudan .icon-arrow-right-copy-copy {
+  font-size: 30rpx;
+}
+.carContainer .shoppingCarLogin .noPackageMail .icon-arrow-right-copy-copy {
+  margin-right: 50rpx;
+  font-size: 35rpx;
+  color: #f48f18;
+}
+.carContainer .shoppingCarLogin .shops {
+  width: 100%;
+  height: 268rpx;
+  background-color: #fff;
+}
+.carContainer .shoppingCarLogin .shops:last-child {
+  margin-bottom: 100rpx;
+}
+.carContainer .shoppingCarLogin .shops:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+.carContainer .shoppingCarLogin .shops .shopsLeft {
+  line-height: 268rpx;
+  float: left;
+  margin-left: 15rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopsLeft .icon-checked {
+  color: #dd1a21;
+}
+.carContainer .shoppingCarLogin .shops .shopsRight {
+  float: left;
+  height: 100%;
+  margin-left: 20rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopsRight .shopsRightTop {
+  height: 30rpx;
+  line-height: 30rpx;
+  margin-top: 20rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopsRight .shopsRightTop .snapUp {
+  border: 1px solid #f48f18;
+  color: #f48f18;
+  font-size: 20rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopsRight .shopsRightTop .countdown {
+  font-size: 22rpx;
+  margin-left: 20rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 24rpx 30rpx 0 0;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot image {
+  width: 172rpx;
+  height: 172rpx;
+  margin-right: 10rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .introduceList .goodThings {
+  font-size: 28rpx;
+  color: #f48f18;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .introduceList .cargo {
+  display: inline-block;
+  font-size: 28rpx;
+  color: #333;
+  width: 300rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  vertical-align: middle;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .type {
+  color: #7f7f7f;
+  font-size: 24rpx;
+  height: 38rpx;
+  background-color: #fafafa;
+  padding: 0 10rpx;
+  margin-top: 10rpx;
+  line-height: 38rpx;
+  display: inline-block;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .type ._span {
+  vertical-align: middle;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .price {
+  margin-top: 24rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .price .presentPrice {
+  font-size: 28rpx;
+  color: #333;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .price .originalPrice {
+  font-size: 24rpx;
+  color: #999;
+  text-decoration: line-through;
+  margin-left: 10rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .price .quantity {
+  display: inline-block;
+  margin-left: 150rpx;
+}
+.carContainer .shoppingCarLogin .shops .shopRightBot .introduce .price .quantity ._span {
+  display: inline-block;
+  border: 1px solid #eee;
+  font-size: 28rpx;
+  width: 58rpx;
+  height: 52rpx;
+  text-align: center;
+  line-height: 52rpx;
+}
+.carContainer .order {
+  position: fixed;
+  bottom: 0rpx;
+  width: 100%;
+  height: 96rpx;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  background-color: #fff;
+}
+.carContainer .order:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+.carContainer .order .orderLeft {
+  color: #7f7f7f;
+  font-size: 20rpx;
+  float: left;
+  margin-left: 15rpx;
+  line-height: 96rpx;
+}
+.carContainer .order .orderLeft .icon-checked {
+  color: #dd1a21;
+}
+.carContainer .order .orderLeft ._span {
+  vertical-align: middle;
+}
+.carContainer .order .orderRight {
+  float: right;
+}
+.carContainer .order .orderRight .combined {
+  display: inline-block;
+  margin-right: 20rpx;
+}
+.carContainer .order .orderRight .combined .combinedPrice {
+  color: #dd1a21;
+  font-size: 28rpx;
+  margin-top: 10rpx;
+}
+.carContainer .order .orderRight .combined .preferential {
+  color: #7f7f7f;
+  font-size: 22rpx;
+}
+.carContainer .order .orderRight .placeTheOrder {
+  width: 256rpx;
+  height: 96rpx;
+  background-color: #ccc;
+  display: inline-block;
+  color: #fff;
+  line-height: 96rpx;
+  text-align: center;
+  vertical-align: top;
+}
+.carContainer .order .orderRight .placeTheOrder.active {
+  background-color: #dd1a21;
+}
+

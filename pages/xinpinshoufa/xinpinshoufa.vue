@@ -33,7 +33,6 @@
 							<image :src="item.primaryPicUrl" mode=""></image>
 						</div>
 						<div class="hopright">
-							<p>"</p>
 							<!-- <p class="ptitle">食养珍品，高端礼赠</p> -->
 							<p class="ptitle">{{item.promTag}}</p>
 							
@@ -425,6 +424,7 @@
 									width 345upx
 									height 78upx
 									margin-top 16upx
+									font-size 24rpx
 								.shopprice
 									width 345upx
 									height 48upx
@@ -558,6 +558,7 @@
 									width 345upx
 									height 78upx
 									margin-top 16upx
+									font-size 24rpx
 								.shopprice
 									width 345upx
 									height 48upx
@@ -746,7 +747,7 @@
 							.shoptitle
 								width 345upx
 								height 78upx
-								margin-top 16upx
+								margin 16upx 0 18upx 0
 								span
 									font-size 27upx
 							.shopprice

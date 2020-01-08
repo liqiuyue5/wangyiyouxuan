@@ -5,7 +5,8 @@
     "pages/category/category",
     "pages/carts/carts",
     "pages/personal/personal",
-    "pages/zhidemai/zhidemai"
+    "pages/zhidemai/zhidemai",
+    "pages/details/details"
   ],
   "subPackages": [],
   "window": {
@@ -48,5 +49,6 @@
       }
     ]
   },
-  "usingComponents": {}
+  "usingComponents": {},
+  "sitemapLocation": "sitemap69.json"
 }
