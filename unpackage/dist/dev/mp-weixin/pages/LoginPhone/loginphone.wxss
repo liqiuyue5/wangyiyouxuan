@@ -1,0 +1,90 @@
+image.data-v-17abadde {
+  width: 267rpx;
+  height: 90rpx;
+  margin-left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  margin-top: 150rpx;
+}
+.form.data-v-17abadde {
+  margin-left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 670rpx;
+}
+.form input.data-v-17abadde {
+  border-bottom: 1rpx solid #f6f6f6;
+  width: 100%;
+  font-size: 30rpx;
+  padding: 20rpx 0;
+}
+.form .num.data-v-17abadde {
+  position: relative;
+}
+.form .num .empty.data-v-17abadde {
+  font-size: 30rpx;
+  background: #d1d1d1;
+  border-radius: 50%;
+  position: absolute;
+  color: #fff;
+  width: 30rpx;
+  height: 30rpx;
+  line-height: 30rpx;
+  text-align: center;
+  padding-bottom: 5rpx;
+  top: 37rpx;
+  right: 20rpx;
+  z-index: 99;
+}
+.form .verification.data-v-17abadde {
+  margin-top: 20rpx;
+  position: relative;
+}
+.form .ques.data-v-17abadde {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 40rpx 0;
+  font-size: 32rpx;
+}
+.form .ques ._span.data-v-17abadde:nth-child(1) {
+  color: #8d8d8d;
+}
+.form button.data-v-17abadde {
+  background: #dd1a21;
+  font-size: 30rpx;
+  padding: 10rpx;
+}
+.form .docc.data-v-17abadde {
+  font-size: 30rpx;
+  color: #8d8d8d;
+  margin: 20rpx 0;
+}
+.form .docc checkbox.data-v-17abadde {
+  zoom: 60%;
+}
+.form .other.data-v-17abadde {
+  font-size: 30rpx;
+  color: #333;
+  text-align: center;
+  margin: 50rpx 0;
+}
+.form .getcode.data-v-17abadde {
+  position: absolute;
+  font-size: 26rpx;
+  color: #666;
+  top: 20rpx;
+  right: 20rpx;
+  background: #fff;
+  height: 60rpx;
+  line-height: 40rpx;
+  z-index: 99;
+  outline: none;
+}
+.form .over.data-v-17abadde {
+  color: #bebebe;
+}
+

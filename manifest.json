@@ -1,6 +1,6 @@
 {
     "name" : "网易严选",
-    "appid" : "",
+    "appid" : "wx03e201542c88fcf3",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -57,7 +57,7 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "wx87a9743ca45f8dbc",
+        "appid" : "wx03e201542c88fcf3",
         "setting" : {
             "urlCheck" : false,
             "es6" : true

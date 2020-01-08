@@ -1,0 +1,62 @@
+.login.data-v-8a7aef36 {
+  width: 100%;
+  height: 100vh;
+  background: #f2f5f4;
+}
+.login image.data-v-8a7aef36 {
+  width: 267rpx;
+  height: 90rpx;
+  margin-left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  margin-top: 150rpx;
+}
+.login .phone.data-v-8a7aef36 {
+  background: #dd1a21;
+  color: #fff;
+  text-align: center;
+  padding: 25rpx 30rpx;
+  width: 600rpx;
+  margin-left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 30rpx;
+  margin-top: 250rpx;
+}
+.login .email.data-v-8a7aef36 {
+  text-align: center;
+  padding: 25rpx 30rpx;
+  width: 600rpx;
+  margin-left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 30rpx;
+  border: 1rpx solid #dd1a21;
+  color: #dd1a21;
+  margin-top: 30rpx;
+}
+.login .other.data-v-8a7aef36 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 140rpx;
+  margin: 400rpx 0 0 0;
+}
+.login .other ._div.data-v-8a7aef36 {
+  width: 4rpx;
+  height: 40rpx;
+  background: #bfc1c0;
+  margin: 20rpx;
+}
+.login .other button.data-v-8a7aef36 {
+  width: 200rpx;
+  text-align: center;
+  padding: 0;
+  font-size: 30rpx;
+  color: #7f7f7f;
+  background: #f2f5f4;
+}
+.login .other button.data-v-8a7aef36::after {
+  border: none;
+}
+

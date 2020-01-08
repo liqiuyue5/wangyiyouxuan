@@ -1,6 +1,13 @@
 {
   "pages": [
+    "pages/Login/login",
+    "pages/Tab/tab",
     "pages/index/index",
+    "pages/LoginPhone/loginphone",
+    "pages/Ucenter/ucenter",
+    "pages/LoginPassword/loginPassword",
+    "pages/Search/search",
+    "pages/LoginEmail/loginemail",
     "pages/tuijian/tuijian",
     "pages/xinpinshoufa/xinpinshoufa",
     "pages/category/category",
@@ -51,6 +58,5 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap34.json"
+  "usingComponents": {}
 }
