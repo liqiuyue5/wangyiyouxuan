@@ -8400,7 +8400,7 @@ module.exports = {"_from":"@dcloudio/uni-stat@next","_id":"@dcloudio/uni-stat@2.
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多" }, "pages/index/index": { "navigationBarTitleText": "uni-app" }, "pages/category/category": {}, "pages/carts/carts": { "navigationBarTitleText": "购物车" }, "pages/personal/personal": {}, "pages/zhidemai/zhidemai": {}, "pages/details/details": { "navigationBarTitleText": "详情页" } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多", "usingComponents": {} }, "pages/index/index": { "navigationBarTitleText": "uni-app", "usingComponents": {} }, "pages/category/category": { "usingComponents": {} }, "pages/carts/carts": { "navigationBarTitleText": "购物车", "usingComponents": {} }, "pages/personal/personal": { "usingComponents": {} }, "pages/zhidemai/zhidemai": { "usingComponents": {} }, "pages/details/details": { "navigationBarTitleText": "详情页", "usingComponents": {} }, "pages/tuijian/tuijian": { "navigationBarTitleText": "uni-app", "usingComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
 
 /***/ }),
 /* 8 */

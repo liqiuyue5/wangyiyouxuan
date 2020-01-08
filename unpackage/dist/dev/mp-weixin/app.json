@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/tuijian/tuijian",
     "pages/xinpinshoufa/xinpinshoufa",
     "pages/index/index",
     "pages/category/category",
@@ -49,6 +50,5 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap87.json"
+  "usingComponents": {}
 }
