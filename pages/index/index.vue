@@ -227,7 +227,7 @@
 		<div class="popular clearfix">
 				<div class="title clearfix">
 					<p>新品首发</p>
-					<a class="btn">更多<i class="iconfont icon-jiantou "></i></a>
+					<a class="btn" @click="xinpinshoufa()">更多<i class="iconfont icon-jiantou "></i></a>
 				</div>
 					<div class="more">
 						<div class="spItem clearfix">
@@ -343,6 +343,11 @@
 				this.rotate = !this.rotate
 				this.show = !this.show
 				this.isshow = !this.isshow
+			},
+			xinpinshoufa(){
+					uni.redirectTo({
+							url: '/pages/xinpinshoufa/xinpinshoufa'
+					});
 			}
 		}
 	}

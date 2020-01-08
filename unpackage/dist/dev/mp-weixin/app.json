@@ -4,7 +4,8 @@
     "pages/index/index",
     "pages/category/category",
     "pages/carts/carts",
-    "pages/personal/personal"
+    "pages/personal/personal",
+    "pages/zhidemai/zhidemai"
   ],
   "subPackages": [],
   "window": {
@@ -26,6 +27,12 @@
         "text": "分类",
         "iconPath": "/static/tabBar/tab-cate.png",
         "selectedIconPath": "/static/tabBar/tab-cate-current.png"
+      },
+      {
+        "pagePath": "pages/zhidemai/zhidemai",
+        "text": "值得买",
+        "iconPath": "/static/tabBar/zhidemai.png",
+        "selectedIconPath": "/static/tabBar/zhidemaiactive.png"
       },
       {
         "pagePath": "pages/carts/carts",
