@@ -1,6 +1,10 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/xinpinshoufa/xinpinshoufa",
+    "pages/index/index",
+    "pages/category/category",
+    "pages/carts/carts",
+    "pages/personal/personal"
   ],
   "subPackages": [],
   "window": {
@@ -9,6 +13,33 @@
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap5.json"
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/static/tabBar/tab-home.png",
+        "selectedIconPath": "/static/tabBar/tab-home-current.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "分类",
+        "iconPath": "/static/tabBar/tab-cate.png",
+        "selectedIconPath": "/static/tabBar/tab-cate-current.png"
+      },
+      {
+        "pagePath": "pages/carts/carts",
+        "text": "购物车",
+        "iconPath": "/static/tabBar/tab-cart.png",
+        "selectedIconPath": "/static/tabBar/tab-cart-current.png"
+      },
+      {
+        "pagePath": "pages/personal/personal",
+        "text": "个人中心",
+        "iconPath": "/static/tabBar/tab-my.png",
+        "selectedIconPath": "/static/tabBar/tab-my-current.png"
+      }
+    ]
+  },
+  "usingComponents": {}
 }

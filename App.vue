@@ -15,6 +15,7 @@
 <style lang="stylus">
 	/*每个页面公共css */
 	@import url('./static/stylus/iconfont/iconfont.styl') 
+	@import url('./static/stylus/iconfont/mxqiconfont.styl') 
 	page 
 		width 100%
 		height 100% 
