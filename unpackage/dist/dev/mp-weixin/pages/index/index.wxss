@@ -217,7 +217,7 @@
   border-radius: 20rpx;
   position: absolute;
   left: 115rpx;
-  bottom: 20rpx;
+  bottom: -90rpx;
 }
 .index .proItem {
   width: 100%;

@@ -526,7 +526,7 @@
 				border-radius 20upx
 				position absolute
 				left 115upx
-				bottom 20upx
+				bottom -90upx
 		.proItem
 			width 100%
 			padding 5% 5% 2% 5% 
