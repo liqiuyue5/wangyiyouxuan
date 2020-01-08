@@ -164,6 +164,7 @@
   width: 345rpx;
   height: 78rpx;
   margin-top: 16rpx;
+  font-size: 24rpx;
 }
 .wrapper .container .tuijianguanzhu .tjgzlist ._ul ._li ._a .shopprice {
   width: 345rpx;
@@ -322,6 +323,7 @@
   width: 345rpx;
   height: 78rpx;
   margin-top: 16rpx;
+  font-size: 24rpx;
 }
 .wrapper .container .quanbuxinpin .benqixinpin ._ul ._li ._a .shopprice {
   width: 345rpx;
@@ -582,7 +584,7 @@
 .wrapper .container .xinpinyugao ._ul ._li ._a .shoptitle {
   width: 345rpx;
   height: 78rpx;
-  margin-top: 16rpx;
+  margin: 16rpx 0 18rpx 0;
 }
 .wrapper .container .xinpinyugao ._ul ._li ._a .shoptitle ._span {
   font-size: 27rpx;
