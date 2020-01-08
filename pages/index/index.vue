@@ -144,27 +144,128 @@
 				</div>
 			</div>
 		</div>
-		<div class="caregory">
-			<div class="title">
-				<span>类目热销榜</span>
+		<div class="popular clearfix">
+			<div class="title clearfix">
+				<p>人气推荐</p>
+				<a class="btn">更多<i class="iconfont icon-jiantou "></i></a>
 			</div>
-			<div class="content2 clearfix">
-				<a href="" class="a1">
-					<p>热销榜</p>
-					<image src="https://yanxuan-item.nosdn.127.net/7f4a74c400ee527d815974432a2d7789.png?quality=75&type=webp&imageView&thumbnail=200x200" mode=""></image>
-				</a>
-				<a href="" class="a2">
-					<p>好评榜</p>
-					<image src="https://yanxuan-item.nosdn.127.net/7d0a893dbdfc52169e534c1f00c41a23.png?quality=75&type=webp&imageView&thumbnail=200x200" mode=""></image>
-				</a>
-			</div>
-			<div class="list">
-				<div class="item">
-					<p>美食酒水榜</p>
-					<image src="https://yanxuan-item.nosdn.127.net/451ee6d21410297df3b2ed923f45d07d.png?quality=75&type=webp&imageView&thumbnail=200x200" mode=""></image>
+				<div class="more">
+					<div class="spItem clearfix">
+						<image src="https://yanxuan-item.nosdn.127.net/2b31ee5002606f7f9081738e9fb8bd5a.png?quality=75&type=webp&imageView&thumbnail=280x280" mode=""></image>
+					</div>
+					<div class="two clearfix">
+						<span class="sp">年货特惠</span>
+						<span class="sp">2件减10</span>
+						<span class="qiyan">祺宴 尊享坚果礼盒 800克...</span>
+						<span class="yingji">应季新货，雅致高端</span>
+						<span class="prise">￥239</span>
+					</div>		
 				</div>
-			</div>
+				<div class="m-goodGrid">
+					<div class="shell">
+						<div class="item">
+							<image src="https://yanxuan-item.nosdn.127.net/9a33f08a3b0f5c06fdf4c586d51b2f7c.png?type=webp&imageView&quality=65&thumbnail=330x330" mode=""></image>
+						</div>
+					<span>全棉针织条纹四件套</span>
+						<p>￥299</p> 
+					</div >
+					<div class="shell">
+						<div class="item">
+							<image src="https://yanxuan-item.nosdn.127.net/c0b3d87a8066b33c68294ce60f8e1920.png?type=webp&imageView&quality=65&thumbnail=330x330" mode=""></image>
+						</div>
+						<span>每一口都有七种鱼，全价猫粮...</span>
+						<p>￥88</p> 
+						<span class="sp">2件减10</span>
+					</div>
+					<div class="shell">
+						<div class="item">
+							<image src="https://yanxuan-item.nosdn.127.net/0434f5cb29b2c6c6ade2f1c0487ae97c.png?type=webp&imageView&quality=65&thumbnail=330x330" mode=""></image>
+						</div>
+						<span>泡脚不用倒水擦脚啦！蒸汽沐...</span>
+						<p>￥449</p> 
+					</div>
+				</div>
 		</div>
+		<div class="popular clearfix">
+				<div class="title clearfix">
+					<p>限时购</p>
+					<a class="btn">更多<i class="iconfont icon-jiantou "></i></a>
+				</div>
+					<div class="more">
+						<div class="spItem clearfix">
+							<image src="https://yanxuan-item.nosdn.127.net/2b31ee5002606f7f9081738e9fb8bd5a.png?quality=75&type=webp&imageView&thumbnail=280x280" mode=""></image>
+						</div>
+						<div class="two clearfix">
+							<span class="sp">年货特惠</span>
+							<span class="sp">2件减10</span>
+							<span class="qiyan">祺宴 尊享坚果礼盒 800克...</span>
+							<span class="yingji">应季新货，雅致高端</span>
+							<span class="prise">￥239</span>
+						</div>		
+					</div>
+					<div class="m-goodGrid">
+						<div class="shell">
+							<div class="item">
+								<image src="https://yanxuan-item.nosdn.127.net/85b1bd60c128affe100068ed20037787.png?quality=75&type=webp&imageView&thumbnail=216x216" mode=""></image>
+							</div>
+							<p>￥199</p> 
+						</div >
+						<div class="shell">
+							<div class="item">
+								<image src="https://yanxuan-item.nosdn.127.net/7c850ef50fc408c4eab4d7abdb920da3.png?quality=75&type=webp&imageView&thumbnail=216x216" mode=""></image>
+							</div>
+							<p>￥1179</p> 
+						</div>
+						<div class="shell">
+							<div class="item">
+								<image src="https://yanxuan-item.nosdn.127.net/ab098b429e5a1f9715d938cd7d54f26a.png?quality=75&type=webp&imageView&thumbnail=216x216" mode=""></image>
+							</div>
+							<p>￥989</p> 
+						</div>
+					</div>
+			</div>
+		<div class="popular clearfix">
+				<div class="title clearfix">
+					<p>新品首发</p>
+					<a class="btn">更多<i class="iconfont icon-jiantou "></i></a>
+				</div>
+					<div class="more">
+						<div class="spItem clearfix">
+							<image src="https://yanxuan-item.nosdn.127.net/2b31ee5002606f7f9081738e9fb8bd5a.png?quality=75&type=webp&imageView&thumbnail=280x280" mode=""></image>
+						</div>
+						<div class="two clearfix">
+							<span class="sp">年货特惠</span>
+							<span class="sp">2件减10</span>
+							<span class="qiyan">祺宴 尊享坚果礼盒 800克...</span>
+							<span class="yingji">应季新货，雅致高端</span>
+							<span class="prise">￥239</span>
+						</div>		
+					</div>
+					<div class="m-goodGrid">
+						<div class="shell">
+							<div class="item">
+								<image src="https://yanxuan-item.nosdn.127.net/9a33f08a3b0f5c06fdf4c586d51b2f7c.png?type=webp&imageView&quality=65&thumbnail=330x330" mode=""></image>
+							</div>
+						<span>全棉针织条纹四件套</span>
+							<p>￥299</p> 
+						</div >
+						<div class="shell">
+							<div class="item">
+								<image src="https://yanxuan-item.nosdn.127.net/c0b3d87a8066b33c68294ce60f8e1920.png?type=webp&imageView&quality=65&thumbnail=330x330" mode=""></image>
+							</div>
+							<span>每一口都有七种鱼，全价猫粮...</span>
+							<p>￥88</p> 
+							<span class="sp">2件减10</span>
+						</div>
+						<div class="shell">
+							<div class="item">
+								<image src="https://yanxuan-item.nosdn.127.net/0434f5cb29b2c6c6ade2f1c0487ae97c.png?type=webp&imageView&quality=65&thumbnail=330x330" mode=""></image>
+							</div>
+							<span>泡脚不用倒水擦脚啦！蒸汽沐...</span>
+							<p>￥449</p> 
+						</div>
+					</div>
+			</div>
 	</div>
 </template>
 
@@ -249,7 +350,6 @@
 
 <style lang="stylus">
 	.index
-		// position relative
 		.header
 			position fixed
 			top 0
@@ -286,7 +386,7 @@
 				line-height 50upx
 				text-align center
 				margin-top 5upx
-				margin-left 20upx
+				margin-left 15upx
 				color #DD1A21
 				border 1upx #DD1A21 solid
 				background none
@@ -297,7 +397,6 @@
 			z-index 99
 			white-space nowrap
 			background white
-			// height 100upx
 			.scrollItem 
 				display inline-block
 				margin 0 20upx
@@ -319,7 +418,6 @@
 				z-index 999
 				background white
 				.go
-					// transform-origin:50% 50%
 					transform rotate(180deg)
 				span
 					display block
@@ -371,7 +469,7 @@
 				li
 					display block
 					float left
-					width 30%
+					width 33%
 					line-height 100%	
 					image
 						width 40upx
@@ -379,7 +477,7 @@
 						float left
 					p
 						margin-top 5upx
-						font-size 25upx
+						font-size 22upx
 		.icon-all
 			width 100%
 			padding 20upx
@@ -561,39 +659,88 @@
 						height 200upx
 						margin-left 150upx
 						margin-top -55upx
-		.caregory
+		.popular
 			width 100%
-			height 770upx
-			background #FFFFFF
-			border-bottom 5upx solid #EEEEEE
-			padding 35upx
-			.content2
-				a
-					display block
-					width 340upx
-					height 200upx
-					float left
-					margin-top 20upx
-				.a1
-					background #F9F3E4
-				.a2
-					background #EBEFF6
-					margin-left 10upx
+			padding 30upx
+			border-bottom 20upx #eee solid
+			.title
 				p
-					margin-top 40upx
-					margin-left 20upx
-					display block
-					width 90upx
-					padding-bottom 20upx
-					border-bottom 5upx solid black
-				image
-					width 200upx
-					height 200upx
-					margin-top -110upx
-					margin-left 140upx
-			.list
-				.item
-					width 150upx
+					font-size 30upx
+					float left
+				.btn
+					width 125upx
 					height 50upx
-					background F5F5F5
+					float right
+					font-size 25upx
+					margin-right 40upx
+					i
+						font-size 25upx
+						float right
+						margin-right 40upx
+						margin-top 5upx
+						transform-origin:50% 50%
+						transform: rotate(180deg)
+			.more
+				display flex
+				background #FEF0DF
+				width 92%
+				.spItem
+					image
+						width 300upx
+						height 300upx
+				.two
+					width 50%
+					.sp
+						font-size 20upx
+						background #FFFFFF
+						display block
+						float left
+						width 100upx
+						height 30upx
+						color #DD1A21
+						border 1upx solid #DD1A21
+						border-radius 20upx
+						margin 60upx 10upx 0 0
+						text-align center
+						line-height 30upx
+					.qiyan
+						padding-top 110upx
+						display block
+						font-size 30upx
+						width 370upx
+					.yingji
+						font-size 27upx
+						color #7F7F7F
+			.m-goodGrid		
+				width 92%
+				display flex
+				justify-content space-between
+				flex-wrap wrap
+				margin-top 20upx
+				.shell
+					width 33%
+					.item
+						width 220upx
+						height 225upx
+						background #f5f5f5
+						float left
+						image
+							width 225upx
+							height 210upx
+					span
+						font-size 25upx
+					p
+						color #DD1A21
+					.sp
+						font-size 20upx
+						background #FFFFFF
+						display block
+						float left
+						width 100upx
+						height 30upx
+						color #DD1A21
+						border 1upx solid #DD1A21
+						border-radius 20upx
+						text-align center
+						line-height 30upx
 		</style>
