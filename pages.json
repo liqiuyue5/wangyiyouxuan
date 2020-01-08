@@ -1,6 +1,12 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 			{
+				"path": "pages/tuijian/tuijian",
+				"style": {
+					"navigationBarTitleText": "uni-app"
+				}
+			},
+			{
 					"path" : "pages/xinpinshoufa/xinpinshoufa",
 					"style" : {"navigationBarTitleText": "更多"}
 			},
@@ -35,6 +41,9 @@
 						"navigationBarTitleText": "详情页"
 					}
 				}
+				
+				
+				
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

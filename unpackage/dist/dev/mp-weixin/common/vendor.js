@@ -7489,9 +7489,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!**********************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/pages.json ***!
-  \**********************************************************/
+/*!*********************************************************!*\
+  !*** C:/Users/宋/Desktop/新建文件夹/wangyiyouxuan/pages.json ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8393,20 +8393,20 @@ module.exports = {"_from":"@dcloudio/uni-stat@next","_id":"@dcloudio/uni-stat@2.
 
 /***/ }),
 /* 7 */
-/*!***************************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/pages.json?{"type":"style"} ***!
-  \***************************************************************************/
+/*!**************************************************************************!*\
+  !*** C:/Users/宋/Desktop/新建文件夹/wangyiyouxuan/pages.json?{"type":"style"} ***!
+  \**************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多" }, "pages/index/index": { "navigationBarTitleText": "uni-app" }, "pages/category/category": {}, "pages/carts/carts": { "navigationBarTitleText": "购物车" }, "pages/personal/personal": {}, "pages/zhidemai/zhidemai": {}, "pages/details/details": { "navigationBarTitleText": "详情页" } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多", "usingComponents": {} }, "pages/index/index": { "navigationBarTitleText": "uni-app", "usingComponents": {} }, "pages/category/category": { "usingComponents": {} }, "pages/carts/carts": { "navigationBarTitleText": "购物车", "usingComponents": {} }, "pages/personal/personal": { "usingComponents": {} }, "pages/zhidemai/zhidemai": { "usingComponents": {} }, "pages/details/details": { "navigationBarTitleText": "详情页", "usingComponents": {} }, "pages/tuijian/tuijian": { "navigationBarTitleText": "uni-app", "usingComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
 
 /***/ }),
 /* 8 */
-/*!**************************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/pages.json?{"type":"stat"} ***!
-  \**************************************************************************/
+/*!*************************************************************************!*\
+  !*** C:/Users/宋/Desktop/新建文件夹/wangyiyouxuan/pages.json?{"type":"stat"} ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9321,9 +9321,9 @@ if (hadRuntime) {
 
 /***/ }),
 /* 24 */
-/*!****************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/utils/request.js ***!
-  \****************************************************************/
+/*!***************************************************************!*\
+  !*** C:/Users/宋/Desktop/新建文件夹/wangyiyouxuan/utils/request.js ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9350,9 +9350,9 @@ function _default(url) {var data = arguments.length > 1 && arguments[1] !== unde
 
 /***/ }),
 /* 25 */
-/*!***************************************************************!*\
-  !*** C:/Users/lixikang/Desktop/wangyiyouxuan/utils/config.js ***!
-  \***************************************************************/
+/*!**************************************************************!*\
+  !*** C:/Users/宋/Desktop/新建文件夹/wangyiyouxuan/utils/config.js ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
