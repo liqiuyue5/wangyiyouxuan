@@ -8508,7 +8508,7 @@ module.exports = {"_from":"@dcloudio/uni-stat@alpha","_id":"@dcloudio/uni-stat@2
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/index/index": { "navigationBarTitleText": "uni-app", "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/category/category": { "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/carts/carts": { "usingComponents": {}, "usingAutoImportComponents": {} }, "pages/personal/personal": { "usingComponents": {}, "usingAutoImportComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/xinpinshoufa/xinpinshoufa": { "navigationBarTitleText": "更多" }, "pages/index/index": { "navigationBarTitleText": "uni-app" }, "pages/category/category": {}, "pages/carts/carts": {}, "pages/personal/personal": {} }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "uni-app", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
 
 /***/ }),
 /* 8 */
