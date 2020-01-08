@@ -5,11 +5,9 @@
 .carContainer .shoppingCar .redemption {
   display: -webkit-box;
   display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 0 30rpx;
 }
@@ -22,7 +20,6 @@
 .carContainer .shoppingCar .list {
   display: -webkit-box;
   display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   list-style-type: square;
   background-color: #fff;
@@ -36,7 +33,6 @@
   font-size: 24rpx;
   -webkit-box-flex: 33.3333%;
   -webkit-flex: 33.3333%;
-      -ms-flex: 33.3333%;
           flex: 33.3333%;
   text-align: center;
   height: 70rpx;
@@ -72,14 +68,12 @@
 .carContainer .shoppingCarLogin .exit {
   display: -webkit-box;
   display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   padding: 0 30rpx;
   height: 89rpx;
   line-height: 89rpx;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
           justify-content: space-between;
 }
 .carContainer .shoppingCarLogin .exit .exitShopCar {
@@ -98,7 +92,6 @@
 .carContainer .shoppingCarLogin .ulList {
   display: -webkit-box;
   display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   list-style-type: square;
   background: #fff;
@@ -112,7 +105,6 @@
   font-size: 24rpx;
   -webkit-box-flex: 33.3333%;
   -webkit-flex: 33.3333%;
-      -ms-flex: 33.3333%;
           flex: 33.3333%;
   text-align: center;
   height: 70rpx;
@@ -124,8 +116,7 @@
   line-height: 80rpx;
   padding: 0 30rpx;
   background-color: #fff8d8;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 .carContainer .shoppingCarLogin .packageMail ._p {
   font-size: 30rpx;
@@ -136,16 +127,13 @@
   height: 80rpx;
   line-height: 80rpx;
   padding: 0 30rpx;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   background-color: #fff8d8;
   display: -webkit-box;
   display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
           justify-content: space-between;
 }
 .carContainer .shoppingCarLogin .noPackageMail .coudan {
@@ -203,12 +191,10 @@
 .carContainer .shoppingCarLogin .shops .shopRightBot {
   display: -webkit-box;
   display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   padding: 24rpx 30rpx 0 0;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
           justify-content: space-between;
 }
 .carContainer .shoppingCarLogin .shops .shopRightBot image {
@@ -227,8 +213,7 @@
   width: 300rpx;
   overflow: hidden;
   white-space: nowrap;
-  -o-text-overflow: ellipsis;
-     text-overflow: ellipsis;
+  text-overflow: ellipsis;
   vertical-align: middle;
 }
 .carContainer .shoppingCarLogin .shops .shopRightBot .introduce .type {

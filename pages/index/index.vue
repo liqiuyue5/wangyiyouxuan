@@ -430,7 +430,7 @@
 					margin-top 10upx
 					.icon-jiantou
 						transform-origin:50% 50%
-						transform: rotate(90deg)
+						// transform: rotate(90deg)
 			.mask
 				width 100%
 				position fixed
