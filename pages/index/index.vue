@@ -427,6 +427,7 @@
 				span
 					display block
 					transition all 800ms
+					margin-top 10upx
 					.icon-jiantou
 						transform-origin:50% 50%
 						transform: rotate(90deg)

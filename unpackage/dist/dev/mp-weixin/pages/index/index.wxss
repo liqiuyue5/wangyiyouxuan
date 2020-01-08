@@ -85,6 +85,7 @@
   display: block;
   -webkit-transition: all 800ms;
   transition: all 800ms;
+  margin-top: 10rpx;
 }
 .index .scrollContainer .down ._span .icon-jiantou {
   -webkit-transform-origin: 50% 50%;
