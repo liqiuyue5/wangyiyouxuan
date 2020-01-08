@@ -133,7 +133,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 31));
+/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _regenerator = _interopRequireDefault(__webpack_require__(/*! ./node_modules/@babel/runtime/regenerator */ 31));
 
 
 
@@ -281,6 +281,14 @@ var _default = {
               this.backData = backData;case 7:case "end":return _context.stop();}}}, _callee, this);}));function mounted() {return _mounted.apply(this, arguments);}return mounted;}(),
 
   methods: {
+    // 回到顶部
+    backTop: function backTop() {
+      uni.pageScrollTo({
+        scrollTop: 0,
+        duration: 300 });
+
+    },
+
     // 节流
     touchStart: function touchStart() {var _this = this;
       if (this.canlog) {
@@ -322,6 +330,7 @@ var _default = {
                   title: '加入成功',
                   icon: 'none',
                   duration: 2000 });case 4:case "end":return _context2.stop();}}}, _callee2, this);}));function addShoppingCar() {return _addShoppingCar.apply(this, arguments);}return addShoppingCar;}() } };exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 1)["default"]))
 
 /***/ }),
 
