@@ -4,6 +4,7 @@
   left: 0;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   padding: 10rpx;
   background-color: #fff;
@@ -79,18 +80,22 @@
 }
 .index .scrollContainer .down .go {
   -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 .index .scrollContainer .down ._span {
   display: block;
   -webkit-transition: all 800ms;
+  -o-transition: all 800ms;
   transition: all 800ms;
   margin-top: 10rpx;
 }
 .index .scrollContainer .down ._span .icon-jiantou {
   -webkit-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
           transform-origin: 50% 50%;
   -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
           transform: rotate(90deg);
 }
 .index .scrollContainer .mask {
@@ -105,11 +110,14 @@
   margin-left: 10rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
 }
 .index .scrollContainer .mask .all ._p {
@@ -140,9 +148,11 @@
 .index .m-index {
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   margin: 30rpx 0;
 }
@@ -171,8 +181,10 @@
   padding: 20rpx;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
 }
 .index .icon-all .icon {
@@ -233,11 +245,14 @@
   margin: 0 5%;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
 }
 .index .clearfix::before,
@@ -285,11 +300,14 @@
   margin-left: 5%;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
 }
 .index .four .bac {
@@ -423,11 +441,13 @@
   margin-right: 40rpx;
   margin-top: 5rpx;
   -webkit-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
           transform-origin: 50% 50%;
 }
 .index .popular .more {
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   background: #fef0df;
   width: 92%;
@@ -467,11 +487,14 @@
   width: 92%;
   display: -webkit-box;
   display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
           justify-content: space-between;
   -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   margin-top: 20rpx;
 }

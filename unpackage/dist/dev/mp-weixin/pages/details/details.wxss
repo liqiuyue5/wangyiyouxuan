@@ -1,0 +1,309 @@
+.detailContainer {
+  width: 100%;
+}
+.detailContainer .img image {
+  width: 100%;
+  height: 104rpx;
+}
+.detailContainer .detailTop {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 24rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 50;
+  background-color: #fff;
+}
+.detailContainer .detailTop ._span {
+  -webkit-box-flex: 33.33%;
+  -webkit-flex: 33.33%;
+      -ms-flex: 33.33%;
+          flex: 33.33%;
+  display: inline-block;
+}
+.detailContainer .detailTop .icon-Homehomepagemenu {
+  font-size: 60rpx;
+}
+.detailContainer .detailTop .detailRight {
+  display: inline-block;
+}
+.detailContainer .detailTop .detailRight ._span {
+  font-size: 60rpx;
+}
+.detailContainer swiper {
+  height: 750rpx;
+  width: 100%;
+}
+.detailContainer swiper image {
+  width: 100%;
+  height: 750rpx;
+}
+.detailContainer .info {
+  background-color: #dd1a21;
+}
+.detailContainer .info image {
+  width: 106rpx;
+  height: 106rpx;
+  vertical-align: middle;
+}
+.detailContainer .info .infoPrice {
+  display: inline-block;
+  color: #fff;
+  border-left: #f48f18 1rpx solid;
+  width: 459rpx;
+  vertical-align: middle;
+}
+.detailContainer .info .infoPrice ._p {
+  font-size: 23rpx;
+  margin: 12rpx 0 0 12rpx;
+}
+.detailContainer .info .infoPrice .infoNewPrice {
+  font-size: 46rpx;
+  margin-left: 12rpx;
+}
+.detailContainer .info .infoPrice .infoOldPrice {
+  font-size: 23rpx;
+  text-decoration: line-through;
+  margin-left: 10rpx;
+}
+.detailContainer .info .being {
+  font-size: 23rpx;
+  color: #fff;
+}
+.detailContainer .radeRecommend .rate {
+  width: 100%;
+  padding: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #fff;
+}
+.detailContainer .radeRecommend .rate:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.detailContainer .radeRecommend .rate .rateLeft {
+  float: left;
+}
+.detailContainer .radeRecommend .rate .rateLeft .rateLeftOne {
+  color: #333;
+  font-size: 32rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+}
+.detailContainer .radeRecommend .rate .rateLeft .rateLeftTwo {
+  color: #333;
+  font-size: 24rpx;
+  height: 36rpx;
+  line-height: 36rpx;
+}
+.detailContainer .radeRecommend .rate .rateRight {
+  float: right;
+  vertical-align: middle;
+}
+.detailContainer .radeRecommend .rate .rateRight .rateRightOne {
+  color: #333;
+  font-size: 32rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+}
+.detailContainer .radeRecommend .rate .rateRight .rateRightTwo {
+  color: #333;
+  font-size: 24rpx;
+  height: 36rpx;
+  line-height: 36rpx;
+}
+.detailContainer .radeRecommend .rate .icon-arrow-right-copy-copy {
+  float: right;
+  vertical-align: bottom;
+  height: 72rpx;
+  line-height: 72rpx;
+}
+.detailContainer .radeRecommend .recommend {
+  padding: 14rpx 40rpx;
+  background-color: #fff;
+  border: 2rpx solid #eee;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.detailContainer .radeRecommend .recommend .recommendOne .number {
+  border: 1rpx solid #dd1a21;
+  font-size: 24rpx;
+  border-radius: 50%;
+  width: 24rpx;
+  height: 24rpx;
+  line-height: 24rpx;
+  display: inline-block;
+  text-align: center;
+  margin-right: 10rpx;
+}
+.detailContainer .radeRecommend .recommend .recommendOne .benefits {
+  font-size: 24rpx;
+  color: #333;
+}
+.detailContainer .radeRecommend .tradBack {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 20rpx;
+  padding: 20rpx;
+  background-color: #fff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.detailContainer .radeRecommend .tradBack .tradBackLeft ._span {
+  color: #333;
+  font-size: 28rpx;
+}
+.detailContainer .radeRecommend .tradBack .tradBackLeft .integral {
+  color: #dd1a21;
+}
+.detailContainer .radeRecommend .tradBack .icon-arrow-right-copy-copy {
+  margin-top: 10rpx;
+}
+.detailContainer .radeRecommend .amount {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 32rpx 20rpx;
+  border-bottom: 2rpx solid #eee;
+  background-color: #fff;
+  margin-top: 10rpx;
+}
+.detailContainer .radeRecommend .amount ._span {
+  font-size: 28rpx;
+}
+.detailContainer .radeRecommend .limit {
+  padding: 32rpx 20rpx;
+  background-color: #fff;
+}
+.detailContainer .radeRecommend .limit ._p {
+  font-size: 28rpx;
+}
+.detailContainer .radeRecommend .serve {
+  margin-bottom: 20rpx;
+  background-color: #fff;
+}
+.detailContainer .radeRecommend .serve .serveMany {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0 20rpx;
+}
+.detailContainer .radeRecommend .serve .serveMany .serveText {
+  display: inline-block;
+  color: #333;
+  font-size: 28rpx;
+}
+.detailContainer .radeRecommend .serve .serveMany ._ul ._li {
+  list-style-type: disc;
+  color: #7f7f7f;
+  font-size: 28rpx;
+  margin: 0 40rpx 16rpx 0;
+  padding: 0 0 0 16rpx;
+  display: inline-block;
+}
+.detailContainer .radeRecommend .serve .serveMany .icon-arrow-right-copy-copy {
+  vertical-align: middle;
+}
+.detailContainer .radeRecommend image {
+  width: 100%;
+  height: 200rpx;
+}
+.detailContainer .radeRecommend .userSpeack {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0 20rpx;
+  margin-bottom: 100rpx;
+  background-color: #fff;
+}
+.detailContainer .radeRecommend .userSpeack .userEvaluation {
+  font-size: 28rpx;
+  color: #333;
+  margin-top: 12rpx;
+}
+.detailContainer .radeRecommend .userSpeack .rateOf .accounted {
+  color: #dd1a21;
+  font-size: 28rpx;
+}
+.detailContainer .radeRecommend .userSpeack .rateOf .betterAccounted {
+  font-size: 28rpx;
+  color: #333;
+}
+.detailContainer .radeRecommend .userSpeack .rateOf .icon-arrow-right-copy-copy {
+  font-size: 28rpx;
+}
+.detailContainer .backTop {
+  position: fixed;
+  width: 82rpx;
+  height: 82rpx;
+  background-color: #fff;
+  color: #333;
+  border-radius: 50%;
+  line-height: 82rpx;
+  text-align: center;
+  font-size: 28rpx;
+  border: 1px solid #eee;
+  right: 20rpx;
+  visibility: visible;
+  bottom: 400rpx;
+}
+.detailContainer .fixation {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 104rpx;
+  background-color: #fff;
+}
+.detailContainer .fixation .icon-erji {
+  width: 156rpx;
+  height: 104rpx;
+  line-height: 104rpx;
+  display: inline-block;
+  font-size: 50rpx;
+  text-align: center;
+  border-right: 1rpx solid #eee;
+}
+.detailContainer .fixation .quickShop {
+  font-size: 28rpx;
+  width: 297rpx;
+  height: 104rpx;
+  line-height: 104rpx;
+  text-align: center;
+  display: inline-block;
+}
+.detailContainer .fixation .addCar {
+  display: inline-block;
+  color: #fff;
+  background-color: #dd1a21;
+  width: 297rpx;
+  height: 104rpx;
+  line-height: 104rpx;
+  text-align: center;
+  font-size: 28rpx;
+}
+

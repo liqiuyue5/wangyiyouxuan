@@ -4,11 +4,12 @@
     "ignore": []
   },
   "setting": {
-    "urlCheck": false
+    "urlCheck": false,
+    "es6": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.9.2",
-  "appid": "touristappid",
+  "libVersion": "2.7.0",
+  "appid": "wxd279a84ddb1bea6e",
   "projectname": "网易严选",
   "condition": {
     "search": {
