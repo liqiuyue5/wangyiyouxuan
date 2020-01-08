@@ -1,7 +1,8 @@
 {
   "pages": [
-    "pages/xinpinshoufa/xinpinshoufa",
     "pages/index/index",
+    "pages/tuijian/tuijian",
+    "pages/xinpinshoufa/xinpinshoufa",
     "pages/category/category",
     "pages/carts/carts",
     "pages/personal/personal",

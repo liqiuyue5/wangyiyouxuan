@@ -147,7 +147,7 @@
 		<div class="popular clearfix">
 			<div class="title clearfix">
 				<p>人气推荐</p>
-				<a class="btn">更多<i class="iconfont icon-jiantou "></i></a>
+				<a class="btn" @click="tuijian">更多<i class="iconfont icon-jiantou "></i></a>
 			</div>
 				<div class="more">
 					<div class="spItem clearfix">
@@ -348,6 +348,11 @@
 					uni.redirectTo({
 							url: '/pages/xinpinshoufa/xinpinshoufa'
 					});
+			},
+			tuijian(){
+					uni.redirectTo({
+							url: '/pages/tuijian/tuijian'
+					});
 			}
 		}
 	}
@@ -430,7 +435,6 @@
 					margin-top 10upx
 					.icon-jiantou
 						transform-origin:50% 50%
-						// transform: rotate(90deg)
 			.mask
 				width 100%
 				position fixed
