@@ -4,7 +4,8 @@
     "pages/index/index",
     "pages/category/category",
     "pages/carts/carts",
-    "pages/personal/personal"
+    "pages/personal/personal",
+    "pages/zhidemai/zhidemai"
   ],
   "subPackages": [],
   "window": {
@@ -28,6 +29,12 @@
         "selectedIconPath": "/static/tabBar/tab-cate-current.png"
       },
       {
+        "pagePath": "pages/zhidemai/zhidemai",
+        "text": "值得买",
+        "iconPath": "/static/tabBar/zhidemai.png",
+        "selectedIconPath": "/static/tabBar/zhidemaiactive.png"
+      },
+      {
         "pagePath": "pages/carts/carts",
         "text": "购物车",
         "iconPath": "/static/tabBar/tab-cart.png",
@@ -41,7 +48,5 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap54.json"
-  "sitemapLocation": "sitemap14.json"
+  "usingComponents": {}
 }
