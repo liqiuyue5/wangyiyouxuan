@@ -392,7 +392,7 @@
 				background none
 		.scrollContainer
 			position fixed
-			top 75upx
+			top 85upx
 			left 0
 			z-index 99
 			white-space nowrap
@@ -424,7 +424,7 @@
 					transition all 800ms
 					.icon-jiantou
 						transform-origin:50% 50%
-						transform: rotate(-90deg)
+						transform: rotate(90deg)
 			.mask
 				width 100%
 				position fixed
@@ -679,7 +679,6 @@
 						margin-right 40upx
 						margin-top 5upx
 						transform-origin:50% 50%
-						transform: rotate(180deg)
 			.more
 				display flex
 				background #FEF0DF
