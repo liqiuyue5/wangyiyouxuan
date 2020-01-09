@@ -1,14 +1,14 @@
-.search-container.data-v-3bfc0ade {
+.search-container.data-v-794fbbdb {
   width: 100%;
   background: #eee;
 }
-.search-container .search-content.data-v-3bfc0ade {
+.search-container .search-content.data-v-794fbbdb {
   width: 100%;
   background: #fff;
   padding: 10rpx 30rpx;
   box-sizing: border-box;
 }
-.search-container .search-content .header.data-v-3bfc0ade {
+.search-container .search-content .header.data-v-794fbbdb {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -18,37 +18,37 @@
   font-size: 30rpx;
   position: relative;
 }
-.search-container .search-content .header .sousuo.data-v-3bfc0ade {
+.search-container .search-content .header .sousuo.data-v-794fbbdb {
   position: absolute;
   left: 10rpx;
   overflow: hidden;
   width: 100rpx;
   height: 50rpx;
 }
-.search-container .search-content .header .sousuo image.data-v-3bfc0ade {
+.search-container .search-content .header .sousuo image.data-v-794fbbdb {
   width: 100rpx;
   height: 350rpx;
   -webkit-transform: translateY(-295rpx);
           transform: translateY(-295rpx);
 }
-.search-container .search-content .header input.data-v-3bfc0ade {
+.search-container .search-content .header input.data-v-794fbbdb {
   background: #f4f4f4;
   color: #aaa;
   width: 550rpx;
   padding-left: 50rpx;
 }
-.search-container .search-content .header ._a.data-v-3bfc0ade {
+.search-container .search-content .header ._a.data-v-794fbbdb {
   padding-top: 10rpx;
 }
-.search-container .search-content .tab-container.data-v-3bfc0ade {
+.search-container .search-content .tab-container.data-v-794fbbdb {
   margin-top: 30rpx;
 }
-.search-container .search-content .tab-container .hot.data-v-3bfc0ade {
+.search-container .search-content .tab-container .hot.data-v-794fbbdb {
   font-size: 35rpx;
   color: #999;
   margin: 10rpx 0;
 }
-.search-container .search-content .tab-container .tab-list ._a.data-v-3bfc0ade {
+.search-container .search-content .tab-container .tab-list ._a.data-v-794fbbdb {
   border: 1rpx #d7d7d7 solid;
   color: #333;
   font-size: 24rpx;

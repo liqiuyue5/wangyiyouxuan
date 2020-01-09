@@ -1,9 +1,9 @@
-.login.data-v-8a7aef36 {
+.login.data-v-a777d7a2 {
   width: 100%;
   height: 100vh;
   background: #f2f5f4;
 }
-.login image.data-v-8a7aef36 {
+.login image.data-v-a777d7a2 {
   width: 267rpx;
   height: 90rpx;
   margin-left: 50%;
@@ -11,7 +11,7 @@
           transform: translateX(-50%);
   margin-top: 150rpx;
 }
-.login .phone.data-v-8a7aef36 {
+.login .phone.data-v-a777d7a2 {
   background: #dd1a21;
   color: #fff;
   text-align: center;
@@ -23,7 +23,7 @@
   font-size: 30rpx;
   margin-top: 250rpx;
 }
-.login .email.data-v-8a7aef36 {
+.login .email.data-v-a777d7a2 {
   text-align: center;
   padding: 25rpx 30rpx;
   width: 600rpx;
@@ -35,20 +35,20 @@
   color: #dd1a21;
   margin-top: 30rpx;
 }
-.login .other.data-v-8a7aef36 {
+.login .other.data-v-a777d7a2 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
   padding: 0 140rpx;
   margin: 400rpx 0 0 0;
 }
-.login .other ._div.data-v-8a7aef36 {
+.login .other ._div.data-v-a777d7a2 {
   width: 4rpx;
   height: 40rpx;
   background: #bfc1c0;
   margin: 20rpx;
 }
-.login .other button.data-v-8a7aef36 {
+.login .other button.data-v-a777d7a2 {
   width: 200rpx;
   text-align: center;
   padding: 0;
@@ -56,7 +56,7 @@
   color: #7f7f7f;
   background: #f2f5f4;
 }
-.login .other button.data-v-8a7aef36::after {
+.login .other button.data-v-a777d7a2::after {
   border: none;
 }
 

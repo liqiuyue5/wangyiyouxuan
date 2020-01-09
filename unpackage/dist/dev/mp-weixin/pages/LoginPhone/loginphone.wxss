@@ -1,4 +1,4 @@
-image.data-v-17abadde {
+image.data-v-61ef005b {
   width: 267rpx;
   height: 90rpx;
   margin-left: 50%;
@@ -6,22 +6,22 @@ image.data-v-17abadde {
           transform: translateX(-50%);
   margin-top: 150rpx;
 }
-.form.data-v-17abadde {
+.form.data-v-61ef005b {
   margin-left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   width: 670rpx;
 }
-.form input.data-v-17abadde {
+.form input.data-v-61ef005b {
   border-bottom: 1rpx solid #f6f6f6;
   width: 100%;
   font-size: 30rpx;
   padding: 20rpx 0;
 }
-.form .num.data-v-17abadde {
+.form .num.data-v-61ef005b {
   position: relative;
 }
-.form .num .empty.data-v-17abadde {
+.form .num .empty.data-v-61ef005b {
   font-size: 30rpx;
   background: #d1d1d1;
   border-radius: 50%;
@@ -36,11 +36,11 @@ image.data-v-17abadde {
   right: 20rpx;
   z-index: 99;
 }
-.form .verification.data-v-17abadde {
+.form .verification.data-v-61ef005b {
   margin-top: 20rpx;
   position: relative;
 }
-.form .ques.data-v-17abadde {
+.form .ques.data-v-61ef005b {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -50,29 +50,29 @@ image.data-v-17abadde {
   padding: 40rpx 0;
   font-size: 32rpx;
 }
-.form .ques ._span.data-v-17abadde:nth-child(1) {
+.form .ques ._span.data-v-61ef005b:nth-child(1) {
   color: #8d8d8d;
 }
-.form button.data-v-17abadde {
+.form button.data-v-61ef005b {
   background: #dd1a21;
   font-size: 30rpx;
   padding: 10rpx;
 }
-.form .docc.data-v-17abadde {
+.form .docc.data-v-61ef005b {
   font-size: 30rpx;
   color: #8d8d8d;
   margin: 20rpx 0;
 }
-.form .docc checkbox.data-v-17abadde {
+.form .docc checkbox.data-v-61ef005b {
   zoom: 60%;
 }
-.form .other.data-v-17abadde {
+.form .other.data-v-61ef005b {
   font-size: 30rpx;
   color: #333;
   text-align: center;
   margin: 50rpx 0;
 }
-.form .getcode.data-v-17abadde {
+.form .getcode.data-v-61ef005b {
   position: absolute;
   font-size: 26rpx;
   color: #666;
@@ -84,7 +84,7 @@ image.data-v-17abadde {
   z-index: 99;
   outline: none;
 }
-.form .over.data-v-17abadde {
+.form .over.data-v-61ef005b {
   color: #bebebe;
 }
 
